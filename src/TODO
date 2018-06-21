@@ -1,0 +1,7 @@
+Put function name and arity checking into the parser.erl.
+
+Restrict variables in ranges to A0 - ZZ
+
+Need a policy for upper and lowercase
+
+

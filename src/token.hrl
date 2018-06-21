@@ -1,0 +1,6 @@
+-define(OPERATOR,oper).
+-define(STRING,string).
+-define(VARIABLE,var).
+-define(NUMBER,number).
+-define(FUNCTION,func).
+-define(LIST,list).
